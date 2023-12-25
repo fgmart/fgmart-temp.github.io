@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   University of Texas at San Antonio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fgmart.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: fgmart
+linkedin_username: fgmartin13
 github_username:  fgmart
 
 # Build settings
