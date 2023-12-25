@@ -25,7 +25,7 @@ github_username:  fgmart
 
 # Build settings
 markdown: kramdown
-remote-theme: pages-themes/tactile@v0.2.0
+theme: minima
 plugins:
   - jekyll-remote-theme
 
